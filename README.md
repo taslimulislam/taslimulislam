@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taslimul Islam</h1>
-<h3 align="center">A an Enthusiastic Backend Developer from Bangladesh</h3>
+<h3 align="center">I am an Enthusiastic Backend Developer from Bangladesh</h3>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taslimulislam&label=Profile%20views&color=0e75b6&style=flat" alt="taslimulislam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taslimulislam" alt="taslimulislam" /></a> </p>
 
 - 🔭 I’m currently working on [Lacos](https://github.com/taslimulislam/lacos)
 
@@ -14,7 +14,7 @@
 - 📫 How to reach me **taslimul4001@gmail.com**
 
 - ⚡ Fun fact **I love to sleep 😴**
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taslimulislam" alt="taslimulislam" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/taslimul-islam-b9522a190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taslimul-islam-b9522a190" height="30" width="40" /></a>
