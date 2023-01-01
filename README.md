@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Lacos](https://github.com/taslimulislam/lacos)
 
-- 🌱 I’m currently learning **Vue Js, PostgreSQL**
+- 🌱 I’m currently learning **Vue Js**
 
 - 👨‍💻 All of my projects are available at [https://taslimulislam.github.io/](https://taslimulislam.github.io/)
 
