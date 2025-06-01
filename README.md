@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Artifism](https://demo.artifism.techvill.net/)
 
-- 🌱 I’m currently learning **Vue Js**
+- 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://taslimulislam.github.io/](https://taslimulislam.github.io/)
 
