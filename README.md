@@ -74,7 +74,7 @@ I’m **Taslimul Islam**, a passionate and goal-oriented Software Engineer from 
 ### 🧕 Work Philosophy
 
 > I follow **halal principles** in employment:  
-❌ No involvement in gambling, alcohol, usury, MLM, or betting-related projects.
+❌ No involvement in gambling, alcohol, nudity or betting-related projects.
 
 ---
 
