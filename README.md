@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Taslimul Islam</h1>
+<h1 align="center">Hi 👋, I'm Taslimul Islam</h1>
 <h3 align="center">🚀 Senior Software Engineer | Laravel Specialist</h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-I’m **Md. Taslimul Islam**, a passionate and goal-oriented Software Engineer from **Dhaka, Bangladesh**. I specialize in **Laravel**, crafting real-world applications that are scalable, performant, and user-friendly.
+I’m **Taslimul Islam**, a passionate and goal-oriented Software Engineer from **Dhaka, Bangladesh**. I specialize in **Laravel**, crafting real-world applications that are scalable, performant, and user-friendly.
 
 💡 I love solving real problems with code and enjoy building systems that help businesses grow.  
 🤝 I'm open to collaboration on meaningful and halal projects.
