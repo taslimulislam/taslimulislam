@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taslimul Islam</h1>
-<h3 align="center">🚀 Senior Software Engineer | Laravel Specialist</h3>
+<h3 align="center">🚀 Software Engineer | Laravel Specialist</h3>
 
 <p align="center">
   <a href="https://taslimulislam.github.io" target="_blank">
